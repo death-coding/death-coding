@@ -23,9 +23,7 @@ Hi there! I’m Sardianto Sihotang, a passionate Information Systems student wit
 
 
 - To become a proficient Fullstack Developer
-  
 - Contribute to impactful open-source projects
-
 - Continuously learn and share knowledge about web development
 
 🌱 Learning Journey:
@@ -34,9 +32,7 @@ Hi there! I’m Sardianto Sihotang, a passionate Information Systems student wit
 I believe that growth is a continuous process. Currently, I’m focusing on:
 
 - Improving problem-solving skills with data structures and algorithms.
-
 - Understanding design patterns and best practices for scalable web apps.
-
 - Exploring new technologies in the web ecosystem.
 
 📫 Let’s Connect:
