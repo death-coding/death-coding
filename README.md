@@ -2,7 +2,6 @@ About Me 👋
 Hi there! I’m Sardianto Sihotang, a passionate Information Systems student with a keen interest in web development and a goal of becoming a skilled Fullstack Developer. I enjoy creating clean, functional, and impactful web solutions.
 
 💻 My Tech Interests:
-
 🌐 Frontend Development: HTML, CSS, JavaScript, React, Next.js
 🖥️ Backend Development: Node.js, Express, Laravel
 🗄️ Databases: MySQL, PostgreSQL, MongoDB
