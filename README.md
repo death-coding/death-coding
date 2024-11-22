@@ -15,7 +15,7 @@ Hi there! I’m Sardianto Sihotang, a passionate Information Systems student wit
 🚀 What I’m Working On:
 
   Enhancing my skills in JavaScript frameworks and TypeScript
-Building web applications that integrate frontend and backend seamlessly
+  Building web applications that integrate frontend and backend seamlessly
 Exploring modern web architectures like REST APIs and GraphQL
 🎯 Career Goals:
 To become a proficient Fullstack Developer
